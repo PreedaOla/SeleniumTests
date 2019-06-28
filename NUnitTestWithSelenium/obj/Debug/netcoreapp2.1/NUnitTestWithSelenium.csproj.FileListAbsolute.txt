@@ -1,0 +1,14 @@
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\bin\Debug\netcoreapp2.1\NUnitTestWithSelenium.deps.json
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\bin\Debug\netcoreapp2.1\NUnitTestWithSelenium.runtimeconfig.json
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\bin\Debug\netcoreapp2.1\NUnitTestWithSelenium.runtimeconfig.dev.json
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\bin\Debug\netcoreapp2.1\NUnitTestWithSelenium.dll
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\obj\Debug\netcoreapp2.1\NUnitTestWithSelenium.csproj.CoreCompileInputs.cache
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\obj\Debug\netcoreapp2.1\NUnitTestWithSelenium.AssemblyInfoInputs.cache
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\obj\Debug\netcoreapp2.1\NUnitTestWithSelenium.AssemblyInfo.cs
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\bin\Debug\netcoreapp2.1\NUnitTestWithSelenium.pdb
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\obj\Debug\netcoreapp2.1\NUnitTestWithSelenium.dll
+C:\Projects\Selenium\NUnitTestWithSelenium\NUnitTestWithSelenium\obj\Debug\netcoreapp2.1\NUnitTestWithSelenium.pdb
